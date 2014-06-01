@@ -137,7 +137,7 @@ function _serialise(val, write) {
 
   // fixmap
   if (len <= 0xF)
-    write(header0(0x90, len))
+    write(header0(0x80, len))
   // map 16
   else if (len <= 0xFFFF)
     write(header16(0xDE, len))
