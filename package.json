@@ -1,0 +1,21 @@
+{
+  "name": "msgpack-pack",
+  "version": "1.0.0",
+  "description": "Pure JS implementation of a msgpack encoder for node.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/msgpack-pack.git"
+  },
+  "keywords": [
+    "msgpack",
+    "encode",
+    "pack"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/msgpack-pack/issues"
+  },
+  "homepage": "https://github.com/nathan7/msgpack-pack"
+}
