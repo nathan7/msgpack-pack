@@ -1,6 +1,6 @@
 {
   "name": "msgpack-pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pure JS implementation of a msgpack encoder for node.",
   "main": "index.js",
   "repository": {
